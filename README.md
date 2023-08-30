@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Alexey</h1>
 <p align="center">
-    <img src="41exey.gif" alt="Reverse and programm" />
+    <a href="mailto:41exey@proton.me"><img src="41exey.gif" alt="Reverse and programm" /></a>
 </p>
